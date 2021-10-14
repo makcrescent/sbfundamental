@@ -8,6 +8,7 @@ public class SbfundamentalApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbfundamentalApplication.class, args);
+		System.out.println("welcome to spring boot fundamental.");
 	}
 
 }
